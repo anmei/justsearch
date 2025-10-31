@@ -77,7 +77,7 @@
 ### 时间戳转换
 支持时间戳和字符串时间之间互转
 
-命令格式：fa {关键字}
+命令格式：ti {关键字}
 
 <img width="1159" height="403" alt="image" src="https://github.com/user-attachments/assets/08c572a2-63d1-446c-ad0e-55e7df1cf829" />
 
