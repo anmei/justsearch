@@ -116,6 +116,18 @@
 
 下载链接：https://pan.baidu.com/s/14vVFJ7a9z4T-h83tgSDiTQ?pwd=6772
 
+## 2025-11-01 版本：1.0.1
+
+下载链接：https://pan.baidu.com/s/14vVFJ7a9z4T-h83tgSDiTQ?pwd=6772
+
+主要更新功能：
+1、选中下拉选项后，按快捷键 shift + enter 可以直接跳转到新的窗口查看内容
+<img width="994" height="423" alt="image" src="https://github.com/user-attachments/assets/4b593e90-0b73-4cd4-ac4a-e22b47a8403c" />
+
+2、增加了搜索关键词突出显示的功能
+<img width="965" height="436" alt="image" src="https://github.com/user-attachments/assets/df3c2312-d266-45e8-8a6c-5ddd390aa629" />
+
+
 
 
 
