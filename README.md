@@ -1,53 +1,8 @@
 # justsearch
 一切从搜索开始
 
-## 一、使用之前需要完成2步，缺一不可
-1、使用激活码完成激活
 
-2、配置用于存储网址和笔记的本地excel文件路径
-
-<img width="904" height="418" alt="image" src="https://github.com/user-attachments/assets/aa2202f4-1e5a-4437-a5b4-da31e323aaa6" />
-
-### 激活步骤
-关注微信公众号：blingbit 
-
-获取应用版本号，应用版本号获取方法
-
-<img width="840" height="524" alt="image" src="https://github.com/user-attachments/assets/39e1fbe4-9605-457a-b623-cbdd331e6654" />
-
-拿到版本号后，在微信公众号对话框中发送应用版本号, 例如：1.0.0，获取激活码，然后按以下方式激活
-
-在搜索框中按如下方式输入， 然后回车
-
-注意：activate和激活码之间必须要有个空格
-
-``activate xxxxxx``
-
-<img width="1157" height="366" alt="image" src="https://github.com/user-attachments/assets/1db403fa-d4b9-437d-ab03-8ec09c3ace88" />
-
-激活成功可以看到如下提示
-
-<img width="1107" height="450" alt="image" src="https://github.com/user-attachments/assets/00b87fc6-2699-406b-a3b8-6b8b053f57fc" />
-
-
-### 配置文件路径
-首先下载模版
-
-<img width="1155" height="367" alt="image" src="https://github.com/user-attachments/assets/25846005-c562-4455-bbf3-6d8a6c2cc65b" />
-
-下载之后，把excel文件放在你电脑本地的任意目录下
-
-然后在系统中配置文件路径，在搜索框中按如下格式输入 ，然后回车
-
-注意：filepath和路径之间必须要有个空格
-
-``filepath /user/你的目录/benote.xlsx``
-
-<img width="1021" height="461" alt="image" src="https://github.com/user-attachments/assets/f5dcbb6b-21c6-4b92-92e4-74403c2083f1" />
-
-恭喜你，到此应用的所有设置完成，可以使用应用的所有功能了。
-
-## 二、功能介绍
+## 功能介绍
 ### 搜网址
 命令格式：ww {关键字}
 <img width="1074" height="431" alt="image" src="https://github.com/user-attachments/assets/9e58249e-ea7f-4270-bafb-a980c9f9bdb3" />
@@ -101,6 +56,53 @@
 2）enter： 选中某个下拉选项后，敲击enter，直接完成复制
 
 3）enter：搜素框中完成关键词输入后，敲击enter，开始搜索
+
+
+## 使用之前需要完成2步，缺一不可
+1、使用激活码完成激活
+
+2、配置用于存储网址和笔记的本地excel文件路径
+
+<img width="904" height="418" alt="image" src="https://github.com/user-attachments/assets/aa2202f4-1e5a-4437-a5b4-da31e323aaa6" />
+
+### 激活步骤
+关注微信公众号：blingbit 
+
+获取应用版本号，应用版本号获取方法
+
+<img width="840" height="524" alt="image" src="https://github.com/user-attachments/assets/39e1fbe4-9605-457a-b623-cbdd331e6654" />
+
+拿到版本号后，在微信公众号对话框中发送应用版本号, 例如：1.0.0，获取激活码，然后按以下方式激活
+
+在搜索框中按如下方式输入， 然后回车
+
+注意：activate和激活码之间必须要有个空格
+
+``activate xxxxxx``
+
+<img width="1157" height="366" alt="image" src="https://github.com/user-attachments/assets/1db403fa-d4b9-437d-ab03-8ec09c3ace88" />
+
+激活成功可以看到如下提示
+
+<img width="1107" height="450" alt="image" src="https://github.com/user-attachments/assets/00b87fc6-2699-406b-a3b8-6b8b053f57fc" />
+
+
+### 配置文件路径
+首先下载模版
+
+<img width="1155" height="367" alt="image" src="https://github.com/user-attachments/assets/25846005-c562-4455-bbf3-6d8a6c2cc65b" />
+
+下载之后，把excel文件放在你电脑本地的任意目录下
+
+然后在系统中配置文件路径，在搜索框中按如下格式输入 ，然后回车
+
+注意：filepath和路径之间必须要有个空格
+
+``filepath /user/你的目录/benote.xlsx``
+
+<img width="1021" height="461" alt="image" src="https://github.com/user-attachments/assets/f5dcbb6b-21c6-4b92-92e4-74403c2083f1" />
+
+恭喜你，到此应用的所有设置完成，可以使用应用的所有功能了。
 
 
 ## 结束
